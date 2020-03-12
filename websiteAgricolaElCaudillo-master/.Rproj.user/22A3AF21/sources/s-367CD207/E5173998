@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584035179275.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E5173998",
+    "lastKnownWriteTime" : 1584034146,
+    "last_content_update" : 1584035188436,
+    "path" : "C:/Users/marin/Desktop/JUVE_github/websiteAgricolaElCaudillo-master/websiteAgricolaElCaudillo-master/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "39,24",
+        "scrollLine" : "24"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
